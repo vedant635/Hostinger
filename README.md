@@ -19,6 +19,12 @@ Hostinger has moved away from traditional promo codes. There's no text box at ch
 
 The current 20% discount runs through their referral system. Signing up through a verified referral link triggers the extra 20% off automatically. It sits on top of whatever plan-level sale Hostinger is already running, so the savings compound.
 
+<a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/vedant635/Hostinger/blob/main/Img/Hostinger%2020%25%20Discount.png" 
+       alt="Hostinger 20% Discount" 
+       style="border:none; cursor:pointer;">
+</a>
+
 This referral discount applies to:
 
 - Shared Hosting (Single, Premium, Business)
@@ -58,6 +64,12 @@ Whether it's a student building a portfolio, a freelancer setting up a business 
 ## Hostinger Plans & Pricing in India (2026)
 
 Here's what Hostinger actually costs on the 48-month billing cycle — regular price versus the current sale price. The extra 20% referral discount applies on top of these numbers.
+
+<a href="#" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/vedant635/Hostinger/blob/main/Img/Hostinger%20Pricing.png" 
+       alt="Hostinger Pricing" 
+       style="border:none; cursor:pointer;">
+</a>
 
 **Web Hosting:**
 
